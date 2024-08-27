@@ -1,4 +1,4 @@
-# Drink-Water
+# Drink-Water-Goal
 This water logging webpage has been developed using HTML, CSS and JavaScript. The user can easily log their water intake during a day through this project.
 
 <a href="https://ramnathnayak07.github.io/Drink-Water-Goal/">Click Here</a><br>
